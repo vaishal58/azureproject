@@ -1,0 +1,9 @@
+{
+	"name": "df-azurevaishalproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7350150a-3047-4305-b395-d65a51f6c6ba",
+		"tenantId": "1862f0e3-6f7e-4836-8015-7cfbca142e15"
+	}
+}
